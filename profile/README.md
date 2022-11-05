@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-    <a href="https://discord.gg/mJaP9TJJXF"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Banner 4"/></a>
+    <a href="https://discord.gg/mJaP9TJJXF" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Banner 4"/></a>
 </p>
