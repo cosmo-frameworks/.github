@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/bit-tech-team/animetracker">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bit-tech-team&repo=animetracker&theme=onedark" />
+    <a href="https://github.com/cosmo-frameworks/animetracker">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cosmo-frameworks&repo=animetracker&theme=onedark" />
     </a>
-    <a href="https://github.com/bit-tech-team/Chill-A-Day">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bit-tech-team&repo=Chill-A-Day&theme=onedark" />
+    <a href="https://github.com/cosmo-frameworks/chillscape">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cosmo-frameworks&repo=chillscape&theme=onedark" />
     </a>
 </p>
